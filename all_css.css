@@ -1,0 +1,17 @@
+p{
+    background-color: black;
+    color: white;
+}
+
+.contact{
+    background-color: blue;
+}
+
+.new{
+    color: red
+}
+
+input[type=submit] {
+    background-color:red;
+    color: white;
+}
